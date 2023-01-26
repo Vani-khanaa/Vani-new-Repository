@@ -74,7 +74,8 @@ for(Card pickedcard:hand)
     
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
-        
+         System.out.println("Hi i am Vani from sheridan college!");
+        System.out.println();
        
         
         System.out.println("My career ambitions:");
